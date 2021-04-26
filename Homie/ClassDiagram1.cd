@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Homie.Models.Actuator">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GQAAAAMCACAAAwAAABIBAgAQDQIAIggEAACQBBkAAAA=</HashCode>
+      <FileName>Models\Actuator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.DaqCommunication">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="Homie.Models.DaqCommunication.IOTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\DaqCommunication.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Homie.Models.DaqCommunication.channelList" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\DaqCommunication.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Homie.Models.DaqCommunication.ioTypeList" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Models\DaqCommunication.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAoBEABBowAAAAAAQAQgFBBEIBAQAKCAAAkAQAAgIU=</HashCode>
+      <FileName>Models\DaqCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.Graphing">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAgAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Graphing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.LoginUser">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAABEAAEAAAAABCAAAACgAAEAgAAABAQMAABEBAAA=</HashCode>
+      <FileName>Models\LoginUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.Room">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAADAAAAAgAAAAAAACgBAAAgAAAAAAAAARAAAAA=</HashCode>
+      <FileName>Models\Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.Sensor">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAIIAACECAQIwwAAAYBIAAQAQAIJAgEAAASBQgBACA=</HashCode>
+      <FileName>Models\Sensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.SensorLog">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAIAAAEAAAAAAggAAAIAAAAAAAAAAAAAAQABAAACA=</HashCode>
+      <FileName>Models\SensorLog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Homie.Models.SqlCommunication">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAEAAAAIAAgAgACAAAI0IQgAIAAAAACKAAhMAAA=</HashCode>
+      <FileName>Models\SqlCommunication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SetupDaq": {
+      "commandName": "Project",
+      "commandLineArgs": "-p"
+    }
+  }
+}
