@@ -1,2 +1,6 @@
 # Homie
-Light and elctronics control using NI-DAQ C# Asp.net and MSSQL
+Light and electronics control using:
+- NI-DAQ
+- C#
+- asp.net
+- MSSQL
